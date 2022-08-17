@@ -2,6 +2,7 @@
 
 ## Version 2.2
 added  more translations
+
 added a save option
 
 ## Version 2.1
