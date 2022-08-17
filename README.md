@@ -1,4 +1,9 @@
 # RurSysV2
+
+## Version 2.2
+added  more translations
+added a save option
+
 ## Version 2.1
 added  a Spam Option
 
