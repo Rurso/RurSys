@@ -1,6 +1,9 @@
 # RurSysV2
 
 ## Version 2.2
+ping thingy
+
+## Version 2.2
 added  more translations
 
 added a save option
